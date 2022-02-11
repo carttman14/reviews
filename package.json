@@ -2,7 +2,7 @@
   "name": "reviews",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://carttman14.github.io/reviews",
+  "homepage": "https://carttman14.github.io/reviews",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
